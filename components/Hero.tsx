@@ -68,7 +68,7 @@ const Hero: React.FC = () => {
         <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-indigo-600 rounded-3xl blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
         <div className="relative aspect-[4/5] max-w-sm mx-auto overflow-hidden rounded-3xl border-4 border-white dark:border-gray-900 shadow-2xl transition-transform duration-500 hover:scale-[1.02]">
           <img
-            src="http://localhost:3000/assets/profile.png"
+            src="https://avatars.githubusercontent.com/u/173536415?v=4"
             alt="Premchand Profile"
             className="w-full h-full object-cover"
           />
