@@ -11,7 +11,7 @@ const Projects: React.FC<ProjectsProps> = ({ onShowDemo }) => {
     <div className="w-full">
       <div className="mb-12 flex justify-between items-end">
         <div>
-          <h2 className="text-3xl font-bold mb-2 text-slate-900 dark:text-white">Featured Projects</h2>
+          <h2 className="text-3xl font-bold mb-2 text-slate-900 dark:text-white">Demo Projects</h2>
           <div className="h-1.5 w-20 bg-blue-600 rounded-full"></div>
         </div>
         <p className="text-gray-500 hidden md:block">Hover to explore details</p>
