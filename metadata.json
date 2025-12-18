@@ -1,0 +1,7 @@
+{
+  "name": "Premchand Portfolio",
+  "description": "A professional and interactive portfolio for Premchand, a Senior Full Stack Engineer, featuring AI-powered interaction, project showcases, and a sleek timeline experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
